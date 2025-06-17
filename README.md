@@ -1,4 +1,4 @@
-<h1>Laravel MIX commands from the starting point: (using @vite (latest one (recommonded)))</h1>
+<h1>Laravel MIX commands from the starting point: (using @vite (Leatest one (recommonded)))</h1>
 
 <b> ==> composer create-project laravel/laravel laravel-mix-demo
 
